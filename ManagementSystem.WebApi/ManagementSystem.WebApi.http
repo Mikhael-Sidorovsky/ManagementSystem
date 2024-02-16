@@ -1,0 +1,6 @@
+@ManagementSystem.WebApi_HostAddress = http://localhost:5268
+
+GET {{ManagementSystem.WebApi_HostAddress}}/employee/
+Accept: application/json
+
+###
